@@ -1,18 +1,18 @@
 ---
-name: Bitcoin-resan
-goal: Upptäck grundläggande Bitcoin, inklusive dess monetära värdeförslag, gruvarbetare, transaktioner och plånböcker.
-objectives: 
+namn: Bitcoin-resan
+mål: Utforska grunderna av Bitcoin, inklusive dess monetära värde, miners, transaktioner och wallets.
+objektiv: 
 
   - Få en allmän förståelse för Bitcoin-tekniken
   - Förstå hur man köper och säkrar bitcoins
-  - Ha en allmän förståelse för Blockchain-tekniken
+  - Få en allmän förståelse för Blockchain-tekniken
   - Bekanta dig med konceptet Lightning Network
   - Inse den geopolitiska och sociala effekten av Bitcoin
 
 ---
 # Ditt första Bitcoin-äventyr
 
-I den här kursen förklarar vi grunderna i Bitcoin i 25 kapitel, så att du kan förstå den här tekniken på ett enkelt och effektivt sätt. Kursen utforskar grunderna i branschen som helhet, inklusive ämnen som gruvdrift, plånböcker, köp- och säljplattformar och mer. Ytterligare utbildningsmaterial kommer att finnas tillgängligt under hela resan, och vi uppmanar dig också att kolla in "21 affischer" i resursavsnittet efter att du har avslutat den här kursen.
+I den här kursen förklarar vi grunderna av Bitcoin i 25 kapitel, så att du kan förstå tekniken på ett enkelt och effektivt sätt. Kursen utforskar grunderna i branschen som helhet, inklusive ämnen som mining, wallets, köp- och säljplattformar och mer. Extra utbildningsmaterial kommer att finnas tillgängligt under hela resan, och vi uppmanar dig också att kolla in "21 affischer" i resursavsnittet efter att du har avslutat den här kursen.
 
 Du behöver inte ha några särskilda förkunskaper för att komma igång. Faktum är att följande innehåll är tillgängligt för studenter på alla nivåer, och det bör ta cirka 15 timmar att slutföra.
 
