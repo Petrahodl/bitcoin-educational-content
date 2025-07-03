@@ -1,5 +1,5 @@
 ---
-name: Uppdatera din säkerhet på nätet
+namn: Uppdatera din säkerhet på nätet
 goal: Uppdatera lösenord och hantering av personuppgifter. Skapa en säkerhetskopia, skydda dig mot hackare och öka medvetenheten om massövervakning.
 objectives: 
 
